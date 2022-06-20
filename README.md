@@ -357,6 +357,7 @@
 
   * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
   * [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
+  * [Vue 源码分析](https://github.com/answershuto/learnVue)
 
 
 
