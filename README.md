@@ -1,29 +1,29 @@
 ## 学习目录
 
-- [编程基础](##编程基础)
+- [编程基础](#编程基础)
   - [在线教育平台](#在线教育平台)
-  - [编程思想规范](###编程思想规范)
-  - [编程工具](###编程工具)
-  - [操作系统](###操作系统)
-  - [服务器](###服务器)
-  - [数据库](###数据库)
-  - [大数据](###大数据)
-  - [管理和监控](###管理和监控)
-  - [轻量级语言](###轻量级语言)
-  - [web基础](###web基础)
-- [编程语言](##编程语言)
-  - [Android](###Android)
-  - [Angular](###Angular)
-  - [Golang](###Golang)
-  - [HTML/CSS](HTML/CSS)
-  - [IOS](###IOS)
-  - [Java](Java)
-  - [JavaScript](###JavaScript)
-  - [Node](###Node)
-  - [PHP](###PHP)
-  - [Pyhton](###Python)
-  - [React](###React)
-  - [Vue](Vue)
+  - [编程思想规范](#编程思想规范)
+  - [编程工具](#编程工具)
+  - [操作系统](#操作系统)
+  - [服务器](#服务器)
+  - [数据库](#数据库)
+  - [大数据](#大数据)
+  - [管理和监控](#管理和监控)
+  - [轻量级语言](#轻量级语言)
+  - [web基础](#web基础)
+- [编程语言](#编程语言)
+  - [Android](#Android)
+  - [Angular](#Angular)
+  - [Golang](#Golang)
+  - [HTML/CSS](#HTML / CSS)
+  - [IOS](#IOS)
+  - [Java](#Java)
+  - [JavaScript](#JavaScript)
+  - [Node](#Node)
+  - [PHP](#PHP)
+  - [Pyhton](#Python)
+  - [React](#React)
+  - [Vue](#Vue)
 
 
 
@@ -356,7 +356,6 @@
 
   * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
   * [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
-
 
 
 
