@@ -15,7 +15,7 @@
   - [Android](#Android)
   - [Angular](#Angular)
   - [Golang](#Golang)
-  - [HTML/CSS](#HTML / CSS)
+  - [HTML/CSS](#HTML/CSS)
   - [IOS](#IOS)
   - [Java](#Java)
   - [JavaScript](#JavaScript)
@@ -39,6 +39,7 @@
 * [慕课网](http://www.imooc.com/course/list)
 * [蓝桥云课](https://www.shiyanlou.com)
 * [学堂在线](https://www.xuetangx.com)
+* [七月在线](https://www.julyedu.com/)
 
 ### 编程思想规范
 
